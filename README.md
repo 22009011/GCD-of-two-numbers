@@ -34,7 +34,6 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 ![Screenshot 2023-04-15 at 09-03-30 Exp-2a-CR- GCD of two numbers Attempt review](https://user-images.githubusercontent.com/118343461/232207198-182c39ab-16bc-485a-a8a3-5385753b0c2f.png)
 
 
